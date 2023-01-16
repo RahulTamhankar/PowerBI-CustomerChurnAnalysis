@@ -16,15 +16,25 @@ Determining churn %
 I have created it as a measure-
 ![image](https://user-images.githubusercontent.com/87760177/212668026-0499d7ce-fa4f-436d-b0cc-b2d696645e12.png)
 
+My CustomerChurnApp-
+![image](https://user-images.githubusercontent.com/87760177/212670326-92f81c74-5f47-41f8-a463-e683828ed04b.png)
+![image](https://user-images.githubusercontent.com/87760177/212670484-df10b57b-7209-464d-b265-8b4f16813b15.png)
+![image](https://user-images.githubusercontent.com/87760177/212670521-bce65f86-3004-40d2-89fd-876bb8b723d7.png)
+
+My CustomerChurnReport-
+![image](https://user-images.githubusercontent.com/87760177/212670646-e625965e-a434-4fe0-a07b-ca4a5201ccd3.png)
+![image](https://user-images.githubusercontent.com/87760177/212670734-f2f69a7e-076d-44f0-9d46-6671f93b6ae0.png)
+I also found that maximum churn is from Germany using Maps-
+![image](https://user-images.githubusercontent.com/87760177/212669001-19e88e64-1375-4698-963f-35e37e811c2b.png)
+
+I have also implemented RLS(Row-level security (RLS) with Power BI can be used to restrict data access for given users.) for Geographic Location
+
 Some Insights-
 ExitCustomers and total previousmonthexitcustomers are positively correlated with each other.
 Average Total Customers was higher for Active Member (429.25) than Inactive Member (404.08).
 Total Customers for Active Member and Inactive Member diverged the most when the Month Name was Jul, when Active Member were 73 higher than Inactive Member.
 ExitCustomers for Female (1139) was higher than Male (898)
 Across all 5 CreditType, ExitCustomers ranged from 128 to 685.
-
-I also found that maximum churn is from Germany using Maps-
-![image](https://user-images.githubusercontent.com/87760177/212669001-19e88e64-1375-4698-963f-35e37e811c2b.png)
 
 
 Further, I have also made a dashboard of my report to share with the organization.
