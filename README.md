@@ -9,7 +9,8 @@ Determining churn-
 To calculate churn, divide the total number of customers by the number of customers who left. We have a 10% churn rate if we have 100 clients overall throughout that time period and 10 of them decide to leave. There are various ways to calculate churn, and they vary by industry. If a consumer hasn't made a purchase in the past year, a typical e-commerce platform would label them as churners.
 The data- 
 There are multiple data sets and I have tried to make a star schema for data modeling-
-![image](https://user-images.githubusercontent.com/87760177/212667541-22b04d06-ae77-41ec-b304-efd2798fdac7.png)
+![image](https://user-images.githubusercontent.com/87760177/212669800-219942a2-dd69-4083-ae4e-1c8427fc5052.png)
+
 
 Determining churn %
 I have created it as a measure-
