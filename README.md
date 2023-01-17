@@ -1,5 +1,6 @@
 # PowerBI-CustomerChurnAnalysis
 This is a PowerBI App which uses multiple datasets from a bank to gain powerful insights into its customer churn analysis
+For useful insights my App is published for everyone as well- check it out ! https://app.powerbi.com/groups/me/apps/8ad3c9b9-631a-4ab8-bb1e-cc0b29406261/dashboards/790b5955-c3bb-47e1-b2ca-c0bb4e977bc2
 
 Churn definition-
 The following from Investopedia is a suitable definition: "The churn rate, also known as the rate of attrition or customer churn, is the rate at which consumers discontinue transacting business with a firm." Churn makes me think of the leaky bucket predicament. Even if you add more water to the bucket (or in this case, more clients), your overall revenue won't increase if some of your current clients depart. Reducing churn is a primary priority for many firms because keeping current customers is easier than finding new ones.
