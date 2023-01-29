@@ -40,6 +40,6 @@ Across all 5 CreditType, ExitCustomers ranged from 128 to 685.
 
 Further, I have also made a dashboard of my report to share with the organization.
 I have also created an App which includes both Dashboard as well as the report together.For other useful insights my App is published for everyone as well-
-check it out !
+check it out!
 https://app.powerbi.com/groups/me/apps/8ad3c9b9-631a-4ab8-bb1e-cc0b29406261/dashboards/790b5955-c3bb-47e1-b2ca-c0bb4e977bc2
 
