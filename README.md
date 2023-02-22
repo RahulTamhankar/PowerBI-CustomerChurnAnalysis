@@ -13,7 +13,7 @@ There are multiple data sets and I have tried to make a star schema for data mod
 ![image](https://user-images.githubusercontent.com/87760177/212669800-219942a2-dd69-4083-ae4e-1c8427fc5052.png)
 
 
-Determining churn %
+Determining churn Percentage %
 I have created it as a measure-
 ![image](https://user-images.githubusercontent.com/87760177/212668026-0499d7ce-fa4f-436d-b0cc-b2d696645e12.png)
 
